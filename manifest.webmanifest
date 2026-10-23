@@ -1,0 +1,13 @@
+{
+  "name": "Пранкер — безобидные розыгрыши",
+  "short_name": "Пранкер",
+  "description": "Безобидные экранные розыгрыши для друзей",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10131d",
+  "theme_color": "#10131d",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
